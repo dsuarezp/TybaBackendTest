@@ -34,6 +34,7 @@ Crea un archivo .env en el directorio raíz y añade las siguientes variables:
    PORT=3000
    MONGO_URI=tu_uri_de_MongoDB
    JWT_SECRET=tu_secreto_para_jwt
+   GOOGLE_API_KEY=tu_api_key_de_google
    ```
 
 ## Uso
